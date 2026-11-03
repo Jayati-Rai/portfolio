@@ -1,6 +1,0 @@
-{
-  "version": "0.0.1",
-  "configurations": [
-    { "name": "portfolio", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "5189", "--directory", "C:/Users/AshishBhushanKumar/Documents/development/jayati-portfolio/portfolio"], "port": 5189 }
-  ]
-}
